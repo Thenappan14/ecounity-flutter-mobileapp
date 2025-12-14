@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "897720279352",
+    "project_id": "ecounity-a6558",
+    "storage_bucket": "ecounity-a6558.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897720279352:android:31b3f85c9f4d0c193d21cd",
+        "android_client_info": {
+          "package_name": "com.example.eco_unity_flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbKp-4XIiEMCYZ1sLabnhZbK1XI8fQy_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
